@@ -15,7 +15,7 @@ public class number {
         } else {
             System.out.println("The number is negative");
         }
-
         scanner.close(); 
+        System.out.println("This is b1 branch");
     }
 }
